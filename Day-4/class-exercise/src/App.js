@@ -1,6 +1,6 @@
 
 import './App.css';
-import AutoComplete from './components/ans';
+import AutoComplete from './components/autocomplete';
 
 
 
