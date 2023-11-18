@@ -10,8 +10,8 @@ export default function List() {
     const list=["mango","orange","apple"];
   return (
     <div>
-        {list.map((summa)=>
-            <Demo name={summa}/>
+        {list.map((temp)=>
+            <Demo name={temp}/>
         )}
     </div>
   )
